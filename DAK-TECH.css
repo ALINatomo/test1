@@ -1,0 +1,53 @@
+body{
+      background-image:url("D.jpg");
+      background-size:cover;
+      background-attachment: fixed;
+      }
+.img1{
+       width:5%;
+       height:5%;
+      text-align:center;
+
+       }
+.img2{
+      width:3%;
+      height:3%;
+
+      align="center";
+       }
+.button1{
+         font-size:20px;
+         color:white;
+         background-color:green;
+         text-align:center;
+         border-radius:6px;
+
+      }
+.button2{
+         font-size:20px;
+         color:white;
+         background-color:red;
+         align:center;
+          border-radius:6px;
+          top:50px;
+      }
+.P1{
+   font-size:40px;
+   color:white;
+   }
+.P2{
+   font-size:30px;
+   color:white;
+   text-align:center;
+   }
+.A1{
+   font-size:20px;
+   text-align:center;
+   }
+.marquee1{
+   font-size:20px;
+   color:yellow;
+   }
+body{
+    text-align:center;
+    }
